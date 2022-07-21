@@ -1,0 +1,2 @@
+# SmartWays
+Summer Training Course 
